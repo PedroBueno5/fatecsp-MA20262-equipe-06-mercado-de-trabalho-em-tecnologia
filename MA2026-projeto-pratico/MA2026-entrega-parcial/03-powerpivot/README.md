@@ -1,12 +1,10 @@
 # Etapa 03 - Power Pivot & DAX: Mercado de Trabalho em Tecnologia
 
-## Resumo da Etapa
-
-Construção do modelo relacional em estrela (Star Schema) no Power Pivot do Excel a partir das tabelas tratadas na Etapa 02. Esta etapa estabelece a modelagem de dados conectando a tabela fato de vagas (`fVagas`), a dimensão de tempo (`dCalendario`), e mantendo a tabela de auditoria (`fVagas_Rejeitados`) fora do relacionamento, permitindo a criação de KPIs analíticos via DAX com auditabilidade total.
+Construção do modelo relacional em estrel no Power Pivot do Excel a partir das tabelas tratadas na Etapa 02. Esta etapa estabelece a modelagem de dados conectando a tabela fato de vagas (`fVagas`), a dimensão de tempo (`dCalendario`), e mantendo a tabela de auditoria (`fVagas_Rejeitados`) fora do relacionamento, permitindo a criação de KPIs analíticos via DAX com auditabilidade total.
 
 ## Estrutura da Pasta `03-powerpivot/`
 
-* `CafeData_03_PowerPivot.xlsx`: Arquivo principal contendo o Modelo de Dados, a aba de Validação (tabelas dinâmicas) e a aba de Conferência (funções `VALORCUBO`).
+* `Etapa_03_PowerPivot.xlsx`: Arquivo principal contendo o Modelo de Dados, a aba de Validação (tabelas dinâmicas) e a aba de Conferência (funções `VALORCUBO`).
 * `dax/medidas_preliminares.dax`: Código-fonte de todas as medidas DAX exportadas em formato UTF-8.
 * `docs/modelo_relacional.md`: Documentação técnica detalhada das tabelas e relacionamentos do modelo relacional.
 * `docs/diagrama_modelo.png`: Captura da tela da Exibição de Diagrama no Power Pivot.
