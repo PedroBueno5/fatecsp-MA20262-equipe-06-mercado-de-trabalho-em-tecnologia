@@ -6,7 +6,7 @@ Automacao do processo de ingestao, limpeza, padronizacao e auditabilidade dos da
 
 ## Estrutura dos Arquivos da Entrega
 
-* CafeData_02_PowerQuery.xlsx: Arquivo principal contendo as consultas em Power Query e o painel de reconciliacao.
+* Etapa_02_PowerQuery.xlsx: Arquivo principal contendo as consultas em Power Query e o painel de reconciliacao.
 * scripts_m/: Scripts com o codigo fonte M das consultas (.pq).
 * dados_limpos/fVagas.csv: Base tratada final exportada em UTF-8.
 * evidencias/: Capturas de tela comprovando a reconciliacao e o painel de consultas.
