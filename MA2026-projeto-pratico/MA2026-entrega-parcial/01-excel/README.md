@@ -1,12 +1,10 @@
 # Etapa 01 - Excel Avancado: Mercado de Trabalho em Tecnologia
 
-## Resumo da Etapa
-
 Tratamento, padronizacao e organizacao dos dados brutos do mercado de trabalho em tecnologia em ambiente Excel. O processo mantem a base de dados original intocada (Read-Only) e estabelece uma estrutura com rastreabilidade, listas de cadastro auxiliar, regras de negocio e auditoria com reconciliacao de diferenca zero.
 
 ## Estrutura de Arquivos
 
-* CafeData_01_Excel.xlsx: Planilha principal contendo as quatro abas obrigatorias do projeto.
+* Etapa_01_Excel.xlsx: Planilha principal contendo as quatro abas obrigatorias do projeto.
 
 ## Estrutura das Abas do Arquivo
 
