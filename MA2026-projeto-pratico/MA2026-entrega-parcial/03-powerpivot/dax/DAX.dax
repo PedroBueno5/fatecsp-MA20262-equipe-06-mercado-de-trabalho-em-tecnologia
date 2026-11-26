@@ -1,0 +1,10 @@
+
+Total Vagas Bruto := COUNTROWS(Tratado)
+
+Conf Linhas Rejeitados := COUNTROWS(fVagas_Rejeitados)
+
+Total Vagas := COUNTROWS(fVagas)
+
+Media Salario Minimo := AVERAGE(fVagas[Salario_Minimo])
+
+Media Salario Maximo := AVERAGE(fVagas[Salario_Maximo])
